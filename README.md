@@ -1,6 +1,4 @@
-<h1 style="text-align: center; width: 100%;"><a href="http://majframe.com" rel="nofollow">
-    <img src="logo.png" style="max-width:100%;" alt="Majframe">
-</a></h1>
+![Majframe](https://user-images.githubusercontent.com/47477160/80805463-62706d80-8bb8-11ea-9604-d0edad88ad4c.png)
 
 Majframe is a php7.4 MVC framework.
 It uses:
