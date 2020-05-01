@@ -1,6 +1,13 @@
-<h1 style="text-align: center; width: 100%;"><a href="http://majframe.com" rel="nofollow">
-    <img src="logo.png" style="max-width:100%;" alt="Majframe">
-</a></h1>
+![Majframe](https://user-images.githubusercontent.com/47477160/80805463-62706d80-8bb8-11ea-9604-d0edad88ad4c.png)
+
+![Packagist Version](https://img.shields.io/packagist/v/majframe/majframe?label=version)
+![PHP from Packagist](https://img.shields.io/packagist/php-v/majframe/majframe)
+![Packagist](https://img.shields.io/packagist/l/majframe/majframe)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/majframe/majframe)
+![GitHub issues](https://img.shields.io/github/issues/majframe/majframe)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/majframe/majframe)
+![GitHub repo size](https://img.shields.io/github/repo-size/majframe/majframe)
+![Packagist](https://img.shields.io/packagist/dt/majframe/majframe) 
 
 Majframe is a php7.4 MVC framework.
 It uses:
