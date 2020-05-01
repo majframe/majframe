@@ -1,6 +1,6 @@
 # IDEA
 .idea export-ignore
-Majframe.iml - export-ignore
+Majframe.iml export-ignore
 
 # GIT
 .gitignore export-ignore
